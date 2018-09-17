@@ -1,0 +1,19 @@
+﻿  main170725_edit1.cpp
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1229): warning C4356: 'CellShape::cellCount': 정적 데이터 멤버는 파생 클래스를 통해 초기화할 수 없습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1231): warning C4356: 'CellShape::triCount': 정적 데이터 멤버는 파생 클래스를 통해 초기화할 수 없습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1246): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1397): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1479): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1482): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1487): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(1490): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3172): warning C4804: '>': 연산에 'bool' 형식을 사용하는 것은 안전하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3355): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3363): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3412): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3486): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3499): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3513): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\skstk\documents\visual studio 2017\projects\airpoil\airpoil\main170725_edit1.cpp(3553): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Airpoil.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\Airpoil\Debug\Airpoil.exe
+  Airpoil.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\Airpoil\Debug\Airpoil.pdb (Partial PDB)
